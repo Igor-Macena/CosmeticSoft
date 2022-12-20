@@ -1,0 +1,13 @@
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Release\CosmeticSoft.exe.config
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Release\CosmeticSoft.exe
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Release\CosmeticSoft.pdb
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.csprojAssemblyReference.cache
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.Properties.Resources.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.UI.FrmCliente.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.UI.FrmLogin.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.UI.FrmPrincipal.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.UI.FrmProduto.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.csproj.GenerateResource.cache
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.csproj.CoreCompileInputs.cache
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.exe
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Release\CosmeticSoft.pdb

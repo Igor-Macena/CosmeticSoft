@@ -1,0 +1,209 @@
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+E:\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+E:\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+E:\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+E:\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+E:\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+E:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+D:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+F:\DTCC\Projeto\Projeto\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+C:\Users\macen\OneDrive\Área de Trabalho\SrHumano\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+C:\Users\Alefh\Desktop\TCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+F:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+D:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+E:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+H:\DTCC\Beta\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe.config
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.exe
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\bin\Debug\CosmeticSoft.pdb
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csprojAssemblyReference.cache
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.Properties.Resources.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmCliente.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmConsulta.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmLogin.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmNovaSenha.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmPrincipal.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmProduto.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmRevendedor.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.UI.FrmVenda.resources
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.GenerateResource.cache
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.csproj.CoreCompileInputs.cache
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.exe
+D:\DTCC\Beta - Copia\CosmeticSoft\CosmeticSoft\obj\Debug\CosmeticSoft.pdb
