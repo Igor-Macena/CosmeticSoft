@@ -67,16 +67,6 @@ namespace CosmeticSoft.DAL
             cmd.ExecuteNonQuery();
             con.Desconectar();
         }
-        /* ---------------------------------------- não sei se vou usar
-        public void ChamaDica(BLL.RevendedorBLL revendedorBLL)
-        {
-            SqlCommand cmd = new SqlCommand(@"select tbrevendedor.dicasenha from tbrevendedor", con.Conectar());
-            cmd.Parameters.AddWithValue("@dicasenha", revendedorBLL.Dicaseha);
-            DataTable dt = new DataTable();
-            cmd.ExecuteNonQuery();
-            con.Desconectar();
-        }
-        // ----------------------------------------- -------------------*/
         public DataTable Exibe()
         {
             SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM TBREVENDEDOR", con.Conectar());
